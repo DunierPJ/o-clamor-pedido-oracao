@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/o-clamor-pedido-oracao/sw.js', { scope: '/o-clamor-pedido-oracao/' })})}
