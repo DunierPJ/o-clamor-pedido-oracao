@@ -1,1 +1,0 @@
-# o-clamor-pedido-oracao
